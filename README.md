@@ -16,5 +16,5 @@ This is my implementation of [this project](https://github.com/ternaus/cloths_se
 4. Run `main.py`
 
 ## A example
-![Test](test.jpg){:width="50%"} ![Test](test.png){:width="50%"}
-
+<a href="url"><img src="test.jpg" align="left" style="width=50%" ></a>
+<a href="url"><img src="test.png" align="left" style="width=50%" ></a>
