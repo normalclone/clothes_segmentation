@@ -6,7 +6,6 @@ This is my implementation of [this project](https://github.com/ternaus/cloths_se
 -   [pytorch](https://pytorch.org/) >= 1.2
 -   opencv
 -   matplotlib
--   [RoiAlign](https://github.com/longcw/RoIAlign.pytorch)
 -   albumentations, iglovikov_helper_functions, pytorch_lightning, pytorch_toolbelt, segmentation-models-pytorch, tqdm, wandb
 
 ## Installation
