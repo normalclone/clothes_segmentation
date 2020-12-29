@@ -16,5 +16,5 @@ This is my implementation of [this project](https://github.com/ternaus/cloths_se
 4. Run `main.py`
 
 ## A example
-<img style="width: 50%; display: inline"  src="test.jpg"/><img style="width: 50%; display: inline"  src="test.png"/>
+![Test](test.jpg){:width="50%"} ![Test](test.png){:width="50%"}
 
